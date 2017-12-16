@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<resource>
+   <res id="res111">
+      <title>/home/*/*/</title>
+      <permission>rwx------</permission>
+   </res> 
+</resource>
