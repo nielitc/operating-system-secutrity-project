@@ -1,9 +1,7 @@
 <?xml version="1.0"?>
 <resource>
-   <res id="res111">
+   <res id="res002">
       <title>rohith.txt</title>
-      <permission>rw-r--r--</permission>
+      <permission>-rw-r--r--</permission>
    </res> 
 </resource>
-
-
